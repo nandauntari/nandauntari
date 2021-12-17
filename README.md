@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandauntari
 - 👀 I’m interested in learning IT.
-- 🌱 I’m currently learning IT along with hostinger!
+- 🌱 I’m currently learning IT along with Hostinger!
 - 💞️ I’m looking to collaborate on expanding a  personal digital network.
 
 <!---
